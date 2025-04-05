@@ -1,3 +1,3 @@
 # React + Redux - Learning Project
 
-# Project Overview
+# Vibe Coding
